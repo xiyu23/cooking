@@ -2,12 +2,14 @@
 for recording those delicious that I and my honey xiao discovered
 
 - [2022春节](2022春节/README.md)
+- [做需要发起来的面4](做需要发起来的面4/README.md)
 - [做需要发起来的面5](做需要发起来的面5/README.md)
 - [做面条](做面条/README.md)
 - [冰糖葫芦](冰糖葫芦/README.md)
 - [凉拌木耳](凉拌木耳/README.md)
 - [土豆丝](土豆丝/README.md)
 - [孜然炒](孜然炒/README.md)
+- [孜然炒拉条子](孜然炒拉条子/README.md)
 - [小炒黄牛肉](小炒黄牛肉/README.md)
 - [干煸菜花](干煸菜花/README.md)
 - [干锅虾](干锅虾/README.md)

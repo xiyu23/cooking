@@ -23,6 +23,7 @@ for recording those delicious that I and my honey xiao discovered
 - [蒜薹炒肉](蒜薹炒肉/README.md)
 - [蛋炒饭](蛋炒饭/README.md)
 - [蟹肉煲](蟹肉煲/README.md)
+- [辣子鸡](辣子鸡/README.md)
 - [酸汤饺子](酸汤饺子/README.md)
 - [醋溜白菜](醋溜白菜/README.md)
 - [韭菜盒子](韭菜盒子/README.md)

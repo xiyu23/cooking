@@ -20,6 +20,7 @@ for recording those delicious that I and my honey xiao discovered
 - [烤鸡翅](烤鸡翅/README.md)
 - [煮甜玉米](煮甜玉米/README.md)
 - [生日蛋糕](生日蛋糕/README.md)
+- [红烧肉](红烧肉/README.md)
 - [绝味毛豆](绝味毛豆/README.md)
 - [蒜苔炒腊肉](蒜苔炒腊肉/README.md)
 - [蒜薹炒肉](蒜薹炒肉/README.md)

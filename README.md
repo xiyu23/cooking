@@ -32,3 +32,4 @@ for recording those delicious that I and my honey xiao discovered
 - [醋溜白菜](醋溜白菜/README.md)
 - [韭菜盒子](韭菜盒子/README.md)
 - [鱼香肉丝](鱼香肉丝/README.md)
+- [鱿鱼](鱿鱼/README.md)

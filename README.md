@@ -2,6 +2,7 @@
 for recording those delicious that I and my honey xiao discovered
 
 - [2022春节](2022春节/README.md)
+- [做烧饼](做烧饼/README.md)
 - [做需要发起来的面](做需要发起来的面/README.md)
 - [做面条](做面条/README.md)
 - [冰糖葫芦](冰糖葫芦/README.md)

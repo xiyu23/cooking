@@ -29,6 +29,7 @@ for recording those delicious that I and my honey xiao discovered
 - [绝味毛豆](绝味毛豆/README.md)
 - [蒜苔炒腊肉](蒜苔炒腊肉/README.md)
 - [蒜薹炒肉](蒜薹炒肉/README.md)
+- [蛋挞](蛋挞/README.md)
 - [蛋炒饭](蛋炒饭/README.md)
 - [蟹肉煲](蟹肉煲/README.md)
 - [辣子鸡](辣子鸡/README.md)

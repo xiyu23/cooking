@@ -24,6 +24,7 @@ for recording those delicious that I and my honey xiao discovered
 - [生日蛋糕](生日蛋糕/README.md)
 - [空气炸锅-潼关饼](空气炸锅-潼关饼/README.md)
 - [空气炸锅-薯条](空气炸锅-薯条/README.md)
+- [空气炸锅-香肠](空气炸锅-香肠/README.md)
 - [空气炸锅-鸡翅](空气炸锅-鸡翅/README.md)
 - [红烧肉](红烧肉/README.md)
 - [绝味毛豆](绝味毛豆/README.md)

@@ -16,6 +16,7 @@ for recording those delicious that I and my honey xiao discovered
 - [干煸菜花](干煸菜花/README.md)
 - [干锅虾](干锅虾/README.md)
 - [榴莲披萨](榴莲披萨/README.md)
+- [榴莲薄饼](榴莲薄饼/README.md)
 - [水盆羊肉](水盆羊肉/README.md)
 - [泡芙](泡芙/README.md)
 - [烤冷面](烤冷面/README.md)

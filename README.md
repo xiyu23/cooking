@@ -20,6 +20,7 @@ for recording those delicious that I and my honey xiao discovered
 - [水盆羊肉](水盆羊肉/README.md)
 - [油泼面](油泼面/README.md)
 - [泡芙](泡芙/README.md)
+- [炒茄子](炒茄子/README.md)
 - [烤冷面](烤冷面/README.md)
 - [烤鸡翅](烤鸡翅/README.md)
 - [煮甜玉米](煮甜玉米/README.md)

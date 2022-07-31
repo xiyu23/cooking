@@ -36,6 +36,7 @@ for recording those delicious that I and my honey xiao discovered
 - [蛋挞](蛋挞/README.md)
 - [蛋炒饭](蛋炒饭/README.md)
 - [蟹肉煲](蟹肉煲/README.md)
+- [调料清单](调料清单/README.md)
 - [辣子鸡](辣子鸡/README.md)
 - [酸汤饺子](酸汤饺子/README.md)
 - [酸辣土豆丝](酸辣土豆丝/README.md)

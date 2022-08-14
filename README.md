@@ -47,3 +47,4 @@ for recording those delicious that I and my honey xiao discovered
 - [韭菜盒子](韭菜盒子/README.md)
 - [鱼香肉丝](鱼香肉丝/README.md)
 - [鱿鱼](鱿鱼/README.md)
+- [黄花鱼](黄花鱼/README.md)

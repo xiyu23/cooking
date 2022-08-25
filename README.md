@@ -34,6 +34,7 @@ for recording those delicious that I and my honey xiao discovered
 - [空气炸锅-鸡翅](空气炸锅-鸡翅/README.md)
 - [红烧肉](红烧肉/README.md)
 - [绝味毛豆](绝味毛豆/README.md)
+- [芹菜炒粉炒肉丝](芹菜炒粉炒肉丝/README.md)
 - [蒜苔炒腊肉](蒜苔炒腊肉/README.md)
 - [蒜薹炒肉](蒜薹炒肉/README.md)
 - [蛋挞](蛋挞/README.md)

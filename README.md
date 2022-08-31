@@ -28,6 +28,7 @@ for recording those delicious that I and my honey xiao discovered
 - [煮甜玉米](煮甜玉米/README.md)
 - [牛肉馅饺子](牛肉馅饺子/README.md)
 - [生日蛋糕](生日蛋糕/README.md)
+- [空气炸锅-油条](空气炸锅-油条/README.md)
 - [空气炸锅-潼关饼](空气炸锅-潼关饼/README.md)
 - [空气炸锅-烤馍](空气炸锅-烤馍/README.md)
 - [空气炸锅-牛肋条](空气炸锅-牛肋条/README.md)

@@ -7,6 +7,7 @@ for recording those delicious that I and my honey xiao discovered
 - [做面条](做面条/README.md)
 - [冰糖葫芦](冰糖葫芦/README.md)
 - [凉拌木耳](凉拌木耳/README.md)
+- [凉拌皮蛋](凉拌皮蛋/README.md)
 - [凉拌腐竹](凉拌腐竹/README.md)
 - [土豆丝](土豆丝/README.md)
 - [大盘鸡](大盘鸡/README.md)

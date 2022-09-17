@@ -9,6 +9,7 @@ for recording those delicious that I and my honey xiao discovered
 - [凉拌木耳](凉拌木耳/README.md)
 - [凉拌皮蛋](凉拌皮蛋/README.md)
 - [凉拌腐竹](凉拌腐竹/README.md)
+- [凉拌芹菜](凉拌芹菜/README.md)
 - [土豆丝](土豆丝/README.md)
 - [大盘鸡](大盘鸡/README.md)
 - [孜然炒](孜然炒/README.md)

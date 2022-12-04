@@ -53,6 +53,7 @@ for recording those delicious that I and my honey xiao discovered
 - [蟹肉煲](蟹肉煲/README.md)
 - [西红柿炒鸡蛋](西红柿炒鸡蛋/README.md)
 - [调料清单](调料清单/README.md)
+- [豆浆](豆浆/README.md)
 - [辣子鸡](辣子鸡/README.md)
 - [辣椒炒肉](辣椒炒肉/README.md)
 - [酸汤饺子](酸汤饺子/README.md)

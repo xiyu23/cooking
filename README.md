@@ -32,6 +32,7 @@ for recording those delicious that I and my honey xiao discovered
 - [牛肉馅饺子](牛肉馅饺子/README.md)
 - [生日蛋糕](生日蛋糕/README.md)
 - [番茄鸡肉焗饭](番茄鸡肉焗饭/README.md)
+- [空气炸锅-板栗(毛栗子)](空气炸锅-板栗(毛栗子)/README.md)
 - [空气炸锅-油条](空气炸锅-油条/README.md)
 - [空气炸锅-潼关饼](空气炸锅-潼关饼/README.md)
 - [空气炸锅-烤红薯](空气炸锅-烤红薯/README.md)

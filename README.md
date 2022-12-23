@@ -41,6 +41,7 @@ for recording those delicious that I and my honey xiao discovered
 - [空气炸锅-牛肋条](空气炸锅-牛肋条/README.md)
 - [空气炸锅-薯条](空气炸锅-薯条/README.md)
 - [空气炸锅-香肠](空气炸锅-香肠/README.md)
+- [空气炸锅-鸡柳](空气炸锅-鸡柳/README.md)
 - [空气炸锅-鸡翅](空气炸锅-鸡翅/README.md)
 - [红烧肉](红烧肉/README.md)
 - [绝味毛豆](绝味毛豆/README.md)

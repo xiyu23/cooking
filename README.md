@@ -62,6 +62,7 @@ for recording those delicious that I and my honey xiao discovered
 - [酸辣粉](酸辣粉/README.md)
 - [醋溜白菜](醋溜白菜/README.md)
 - [韭菜盒子](韭菜盒子/README.md)
+- [韭黄炒鸡蛋](韭黄炒鸡蛋/README.md)
 - [鱼香肉丝](鱼香肉丝/README.md)
 - [鱿鱼](鱿鱼/README.md)
 - [黄花鱼](黄花鱼/README.md)

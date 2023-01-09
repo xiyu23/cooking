@@ -12,6 +12,7 @@ for recording those delicious that I and my honey xiao discovered
 - [凉拌芹菜](凉拌芹菜/README.md)
 - [土豆丝](土豆丝/README.md)
 - [大盘鸡](大盘鸡/README.md)
+- [大辣子炒鸡蛋](大辣子炒鸡蛋/README.md)
 - [孜然炒](孜然炒/README.md)
 - [孜然炒拉条子](孜然炒拉条子/README.md)
 - [小炒黄牛肉](小炒黄牛肉/README.md)

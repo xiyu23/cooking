@@ -2,6 +2,7 @@
 for recording those delicious that I and my honey xiao discovered
 
 - [2022春节](2022春节/README.md)
+- [三鲜饺子](三鲜饺子/README.md)
 - [做烧饼](做烧饼/README.md)
 - [做需要发起来的面](做需要发起来的面/README.md)
 - [做面条](做面条/README.md)
@@ -29,11 +30,13 @@ for recording those delicious that I and my honey xiao discovered
 - [炒茄子](炒茄子/README.md)
 - [烤冷面](烤冷面/README.md)
 - [烤红薯](烤红薯/README.md)
+- [烤肉蘸汁](烤肉蘸汁/README.md)
 - [烤鸡翅](烤鸡翅/README.md)
 - [煮甜玉米](煮甜玉米/README.md)
 - [牛肉馅饺子](牛肉馅饺子/README.md)
 - [生日蛋糕](生日蛋糕/README.md)
 - [番茄鸡肉焗饭](番茄鸡肉焗饭/README.md)
+- [盐水花生](盐水花生/README.md)
 - [空气炸锅-板栗(毛栗子)](空气炸锅-板栗(毛栗子)/README.md)
 - [空气炸锅-油条](空气炸锅-油条/README.md)
 - [空气炸锅-潼关饼](空气炸锅-潼关饼/README.md)

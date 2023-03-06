@@ -18,6 +18,7 @@ for recording those delicious that I and my honey xiao discovered
 - [孜然炒拉条子](孜然炒拉条子/README.md)
 - [小炒黄牛肉](小炒黄牛肉/README.md)
 - [小笼包](小笼包/README.md)
+- [尖椒炒干豆腐（东北特色）](尖椒炒干豆腐（东北特色）/README.md)
 - [带鱼](带鱼/README.md)
 - [干煸菜花](干煸菜花/README.md)
 - [干锅虾](干锅虾/README.md)

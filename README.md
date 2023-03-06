@@ -63,6 +63,7 @@ for recording those delicious that I and my honey xiao discovered
 - [豆浆](豆浆/README.md)
 - [辣子鸡](辣子鸡/README.md)
 - [辣椒炒肉](辣椒炒肉/README.md)
+- [酱爆皮皮虾](酱爆皮皮虾/README.md)
 - [酸汤饺子](酸汤饺子/README.md)
 - [酸辣土豆丝](酸辣土豆丝/README.md)
 - [酸辣粉](酸辣粉/README.md)
